@@ -5,67 +5,67 @@
       "id": 1,
       "judul": "Foto ade ke 2",
       "deskripsi": "Foto ini diambil saat matahari terbit di pegunungan.",
-      "gambar_url": "https://username.github.io/galeri-api/gunung.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto1.jpg"
     },
     {
       "id": 2,
       "judul": "Foto ade berdua",
       "deskripsi": "foto pose domba ade ke 2.",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto2.jpg"
     },
     {
       "id": 3,
       "judul": "Foto ade berdua ",
       "deskripsi": "foto pose domba berdua.",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto3.jpg"
     },
     {
       "id": 4,
       "judul": "Foto ade berdua ",
       "deskripsi": "foto pose domba berdua yang satu nyengir",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto4.jpg"
     },
     {
       "id": 5,
       "judul": "Foto ade berdua",
       "deskripsi": "foto pose domba berdua yang bontot nyengir ",
-      "gambar_url": "https://fathanabdulaziz.github.io/galeri-api/foto1.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto5.jpg"
     },
     {
       "id": 6,
       "judul": "Foto ade berdua",
       "deskripsi": "foto pose domba berdua yang bontot nyengir ",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto6.jpg"
     },
     {
       "id": 7,
       "judul": "Foto ade berdua",
       "deskripsi": "foto pose domba berdua yang bontot nyengir menghandap kamera",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto7.jpg"
     },
     {
       "id": 8,
       "judul": "Foto ade berdua",
       "deskripsi": "foto pose domba berdua yang bontot nyengir sedikit ketutupan",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto8.jpg"
     },
     {
       "id": 9,
       "judul": "Foto ade berdua ddibelakang burung kaka tua",
       "deskripsi": "Foto berbeda pose berdua di belakang kandang burung kaka tua",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto9.jpg"
     },
     {
       "id": 10,
       "judul": "Foto ade, mama, dan penjaga ",
       "deskripsi": "Foto di tempat wisata rumah kurcaci, bersama dengan penjaga wisata",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto10.jpg"
     },
     {
       "id": 11,
       "judul": "Foto keluarga",
       "deskripsi": "Foto bersama di tempat wisata bersama 1 keluarga",
-      "gambar_url": "https://username.github.io/galeri-api/pantai.jpg"
+      "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto11.jpg"
     }
   ]
 }
