@@ -1,6 +1,4 @@
-{
-  "status": "success",
-  "galeri": [
+[
     {
       "id": 1,
       "judul": "Foto ade ke 2",
@@ -67,5 +65,4 @@
       "deskripsi": "Foto bersama di tempat wisata bersama 1 keluarga",
       "gambar_url": "https://fathanabdulaziz.github.io/galeri_fathan-api/images/foto11.jpg"
     }
-  ]
-}
+]
